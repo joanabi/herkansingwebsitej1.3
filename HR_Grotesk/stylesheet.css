@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'HR Grotesk';
+	src: url('Configuratiescherm\Vormgeving en persoonlijke instellingen\Lettertypen\HK Grotesk');
+	src: url('Configuratiescherm\Vormgeving en persoonlijke instellingen\Lettertypen\HK Grotesk?#iefix') format('embedded-opentype'),
+		url('Configuratiescherm\Vormgeving en persoonlijke instellingen\Lettertypen\HK Grotesk') format('woff'),
+		url('Configuratiescherm\Vormgeving en persoonlijke instellingen\Lettertypen\HK Grotesk') format('truetype'),
+		url('Configuratiescherm\Vormgeving en persoonlijke instellingen\Lettertypen\HK Grotesk') format('svg');
+}
